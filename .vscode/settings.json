@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/home/router/Desktop/games/01_BuildingEscape/BuildingEscape/.vscode": true,
+		"/home/router/Desktop/games/01_BuildingEscape/BuildingEscape/Content": true,
+		"/home/router/Desktop/games/01_BuildingEscape/BuildingEscape/Intermediate": true
+	}
+}
