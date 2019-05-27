@@ -1,10 +1,31 @@
 INCLUDEPATH += \
 	/home/router/UnrealEngine/Engine/Source \
-	Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/BuildingEscape \
-	Source \
-	Source/BuildingEscape \
-	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Core \
+	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine \
 	/home/router/UnrealEngine/Engine/Source/Runtime \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Classes \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/AI \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/AI/Navigation \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Analytics \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Animation \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Curves \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/EdGraph \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Internationalization \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Net \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Net/Util \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/PacketHandlers \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Performance \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics/Experimental \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics/ImmediatePhysics \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/ProfilingDebugging \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Rendering \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Slate \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Subsystems \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Tests \
+	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/VisualLogger \
+	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Core \
 	/home/router/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux \
 	/home/router/UnrealEngine/Engine/Source/Runtime/Core/Public \
 	/home/router/UnrealEngine/Engine/Source/Runtime/Core \
@@ -45,30 +66,6 @@ INCLUDEPATH += \
 	/home/router/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization/Formatters \
 	/home/router/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates \
 	/home/router/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject \
-	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Classes \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/AI \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/AI/Navigation \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Analytics \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Animation \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Curves \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/EdGraph \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Internationalization \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Net \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Net/Util \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/PacketHandlers \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Performance \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics/Experimental \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Physics/ImmediatePhysics \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/ProfilingDebugging \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Rendering \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Slate \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Subsystems \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/Tests \
-	/home/router/UnrealEngine/Engine/Source/Runtime/Engine/Public/VisualLogger \
 	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ApplicationCore \
 	/home/router/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Public \
 	/home/router/UnrealEngine/Engine/Source/Runtime/ApplicationCore \
@@ -432,6 +429,9 @@ INCLUDEPATH += \
 	/home/router/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/DSP \
 	/home/router/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/DSP/Encoders \
 	/home/router/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/SoundFileIO \
+	Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/BuildingEscape \
+	Source \
+	Source/BuildingEscape \
 	/home/router/UnrealEngine/Engine/Source/Runtime/Launch/Private \
 	/home/router/UnrealEngine/Engine/Source/Programs/BlankProgram/Private \
 	/home/router/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/BlankProgram/Inc/Core \
