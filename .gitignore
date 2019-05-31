@@ -3,3 +3,7 @@ Build
 DerivedDataCache
 Intermediate
 Saved
+.vscode
+Source/.vscode
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
