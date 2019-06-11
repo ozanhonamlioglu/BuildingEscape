@@ -41,4 +41,6 @@ private:
 	AActor* ActorThatOpens; // Remember pawn inherits from actor.
 	AActor *Owner; // the owning door.
 
+	float GetTotalMassOfActorsOnPlate();
+
 };
